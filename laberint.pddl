@@ -25,7 +25,7 @@
     ; IMPORTANT: No canviïs/afegeixis/eliminis els noms o els paràmetres de les accions
 
     ; En Grimmy anirà de ?des_de fin ?fins_a per el passadís ?pas si aquest uneix els dos
-    ; llocs, no està tancat ni esfondrat.
+    ; llocs, no està bloquejat ni esfondrat.
     ; Si era un passadis perillós aquest colapça un cop fet servir.
     (:action moure
 
@@ -80,7 +80,9 @@
         )
     )
 
-    ; En Grimmy pot desbloquejar un passadís ?pas conectat amb l'habitació ?loc a la que es troba si el passadís  està bloquejat amb el color ?col, i porta la clau d'aquell color i encara te usos disponibles.
+    ; En Grimmy pot desbloquejar un passadís ?pas conectat amb l'habitació ?loc a 
+    ; la que es troba si el passadís  està bloquejat amb el color ?col, i porta la clau 
+    ; d'aquell color i encara te usos disponibles.
     (:action desbloquejar
 
         :parameters (?loc - ubicacio ?pas - passadis ?col - color ?c - clau)

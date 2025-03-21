@@ -40,7 +40,7 @@ El camí no és senzill. Els passadissos poden col·lapsar, les claus estan disp
 
 ## Problemes a Implementar
 Els problemes es defineixen mitjançant els dibuixos proporcionats amb la següent llegenda:
-[simbols](simbols.jpg)
+![simbols](simbols.jpg)
 
 
 ## S'us proposa que implementeu els següents problemes

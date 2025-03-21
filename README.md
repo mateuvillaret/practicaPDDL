@@ -4,7 +4,7 @@ Enunciat i material de la pràctica de PDDL per AI (GEINF-GDDV-GEB)
 ## Objectiu
 Aquesta pràctica té com a finalitat avaluar la teva comprensió de com modelitzar problemes de planning amb PDDL. L'objectiu és implementar un domini en PDDL i diversos problemes associats a aquest domini.
 
-Se't proporcionarà un fitxer comprimit, `pddl_template.zip`, que conté una plantilla per al domini i per algun problema a implementar.
+S'us proporciona una plantilla per al domini i per algun problema a implementar.
 
 ## Descripció del Domini – El Caçador de Tresors Grimmy
 En Grimmy és un especialista en laberints que tenen tresors de valors incalculables! N'ha trobat de dos tipus:
@@ -67,12 +67,12 @@ Per lliurar la pràctica, inclou els fitxers PDDL següents en un fitxer `.zip`:
 
 ### Criteris d'Avaluació:
 
-- Codificació correcta del domini i dodificació correcta dels problemes per laberints bàsics : 4pts
-- Creació d'un problema difícil addicional: 1 punt
-- Qualitat de la codificació i la descripció de predicats i funcions: 1 punt
-- Codificació correcta del domini i dodificació correcta del problemes per laberints perillosos : 3pts
-- Creació d'un problema difícil addicional: 0,5 punt
-- Qualitat de la codificació i la descripció de predicats i funcions: 0,5 punt
+- Codificació correcta del domini i dodificació correcta dels problemes per laberints bàsics : fins a 4pts
+- Creació d'un problema difícil addicional: fins a 1 punt
+- Qualitat de la codificació i la descripció de predicats i funcions: fins a 1 punt
+- Codificació correcta del domini i dodificació correcta del problemes per laberints perillosos : fins a 3pts
+- Creació d'un problema difícil addicional: fins a 0,5 punt
+- Qualitat de la codificació i la descripció de predicats i funcions: fins a 0,5 punt
 
 ### Notes Addicionals:
 

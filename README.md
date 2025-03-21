@@ -41,11 +41,13 @@ El camí no és senzill. Els passadissos poden col·lapsar, les claus estan disp
 ## Problemes a Implementar
 Els problemes es defineixen mitjançant els dibuixos proporcionats amb la següent llegenda:
 
-- Posició inicial
-- Tresor
-- Pany i clau corresponent (1 ús, 2 usos, multiús)
-- Passadís
-- Habitació
+
+## S'us proposa que implementeu els següents problemes
+Podeu fer servir la llavor del primer problema: 
+
+![laberint1](lab1.jpg)  
+
+
 
 A més dels problemes proporcionats, has de crear el teu propi problema amb les següents característiques:
 

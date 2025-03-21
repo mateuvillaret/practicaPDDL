@@ -43,11 +43,12 @@ Els problemes es defineixen mitjançant els dibuixos proporcionats amb la següe
 
 
 ## S'us proposa que implementeu els següents problemes
-Podeu fer servir la llavor del primer problema: 
 
-![laberint1](lab1.jpg)  
+![laberint1](laberint1.jpg)  
 
+![laberint2](laberint2.jpg)  
 
+![laberint3](laberint3.jpg)  
 
 A més dels problemes proporcionats, has de crear el teu propi problema amb les següents característiques:
 
@@ -58,8 +59,9 @@ A més dels problemes proporcionats, has de crear el teu propi problema amb les 
 ## Lliurament i Avaluació
 Per lliurar la pràctica, inclou els fitxers PDDL següents en un fitxer `.zip`:
 
-- Fitxer del domini.
-- 4 fitxers de problemes.
+- Fitxer del domini. Feu servir aquest fitxer com a llavor: [laberint.pddl](laberint.pddl)
+- 4 fitxers de problemes. Feu servir aquest fitxer  [p1-lab.pddl](p1-lab.pddl)
+que serveix de llavor del primer laberint per a completar-lo i modificar-lo convenientment per fer els altres.
 - Un fitxer `.pdf` amb:
   - Noms i mails dels participants a la pràctica
   - Breu descripció de les contribucions de cada membre del grup.

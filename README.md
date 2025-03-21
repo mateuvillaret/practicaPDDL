@@ -81,13 +81,13 @@ Per lliurar la pràctica, heu d'incloure els següents fitxers PDDL  en un fitxe
 
 ### Criteris d'Avaluació:
 
-- Codificació correcta del domini i dodificació correcta dels problemes per laberints bàsics : fins a 3pts
+- Codificació correcta del domini i codificació correcta dels problemes per laberints bàsics : fins a 3 punts
 - Creació d'un problema difícil addicional: fins a 1 punt
 - Qualitat de la codificació i la descripció de predicats i funcions: fins a 1 punt
-- Codificació correcta del domini i dodificació correcta del problemes per laberints perillosos : fins a 3pts
-- Creació d'un problema difícil addicional: fins a 0,5 punt
-- Qualitat de la codificació i la descripció de predicats i funcions: fins a 0,5 punt
-- Troba els valors que estimarien els heurístics h^+ i h^max per als teus problemes. Explica com els has trobat. Demostra-ho.: fins a 1 punt
+- Codificació correcta del domini i dodificació correcta del problemes per laberints perillosos : fins a 3 punts
+- Creació d'un problema difícil addicional: fins a 0,5 punts
+- Qualitat de la codificació i la descripció de predicats i funcions: fins a 0,5 punts
+- Troba els valors que estimarien els heurístics h^+ i h^max per als teus problemes considerant l'estat inicial. Explica com els has trobat i demostra-ho: fins a 1 punt
 
 **El professor podrà demanar una entrevista presencial amb els membres de la pràctica per tal d'aclarir aspectes sobre aquesta i per validar-ne l'autoria íntegre**
 
@@ -96,7 +96,7 @@ Per lliurar la pràctica, heu d'incloure els següents fitxers PDDL  en un fitxe
 - Si us podeu estalviar predicats usant quantificadors feu-ho.
 - És imprescindible que la vostra solució compili i sigui solucionable amb el solver ENHSP.
 - És preferible que al vostre domini i problemes li faltin coses a que no compili i no resolgui res, cas en que la pràctica estarà suspesa.
-- RECOMANACIÓ: aneu resolent el problema de forma incremental, p.ex. primer sense claus, després amb claus, després amb claus vermelles (per passadissos perillososo) i finalment per claus amb usos limitats.
+- RECOMANACIÓ: aneu resolent el problema de forma incremental, p.ex. primer sense claus, després amb claus, després amb claus vermelles (per passadissos perillosos) i finalment per claus amb usos limitats.
   
 ## Recursos Útils
 Es recomana l'ús de Visual Studio Code o [editor.planning.domains](https://editor.planning.domains) per editar PDDL.

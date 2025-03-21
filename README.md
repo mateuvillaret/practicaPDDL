@@ -40,14 +40,18 @@ El camí no és senzill. Els passadissos poden col·lapsar, les claus estan disp
 
 ## Problemes a Implementar
 Els problemes es defineixen mitjançant els dibuixos proporcionats amb la següent llegenda:
+[simbols](simbols.jpg)
 
 
 ## S'us proposa que implementeu els següents problemes
 
+- Laberint 1
 ![laberint1](laberint1.jpg)  
 
+- Laberint 2
 ![laberint2](laberint2.jpg)  
 
+- Laberint 3
 ![laberint3](laberint3.jpg)  
 
 A més dels problemes proporcionats, has de crear el teu propi problema amb les següents característiques:

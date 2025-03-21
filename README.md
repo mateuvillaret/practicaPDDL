@@ -62,7 +62,7 @@ A més dels problemes proporcionats, heu de crear el vostre propi problema amb *
 
 ## Lliurament i Avaluació
 
-Termini de lliurament * 11 d'abril * inclòs.
+Termini de lliurament **11 d'abril** inclòs.
 
 Les pràctiques es poden fer en equip de fins a 2 persones.
 
@@ -89,7 +89,7 @@ Per lliurar la pràctica, heu d'incloure els següents fitxers PDDL  en un fitxe
 - Qualitat de la codificació i la descripció de predicats i funcions: fins a 0,5 punt
 - Troba els valors que estimarien els heurístics h^+ i h^max per als teus problemes. Explica com els has trobat. Demostra-ho.: fins a 1 punt
 
-* El professor podrà demanar una entrevista presencial amb els membres de la pràctica per tal d'aclarir aspectes sobre aquesta i per validar-ne l'autoria íntegre *
+**El professor podrà demanar una entrevista presencial amb els membres de la pràctica per tal d'aclarir aspectes sobre aquesta i per validar-ne l'autoria íntegre**
 
 ### Notes Addicionals:
 

@@ -68,9 +68,10 @@ Les pràctiques es poden fer en equip de fins a 2 persones.
 
 Per lliurar la pràctica, heu d'incloure els següents fitxers PDDL  en un fitxer `.zip`:
 
-- Fitxer del domini adequadament comentat per a laberints bàsics. Feu servir aquest fitxer com a llavor: [laberint.pddl](laberint.pddl)
-- Fitxer del domini adequadament comentat per a laberints complicat. 
-- 4 fitxers de problemes adequadament comentats. Feu servir aquest fitxer  [p1-lab.pddl](p1-lab.pddl) que serveix de llavor del primer laberint per a completar-lo i modificar-lo convenientment per fer els altres problemes.
+- 1 fitxer del domini adequadament comentat per a laberints simples. Feu servir aquest fitxer com a llavor: [laberint.pddl](laberint.pddl)
+- 3 fitxers de problemes pels laberints simples adequadament comentats (4 si feu l'extra). Feu servir aquest fitxer  [p1-lab.pddl](p1-lab.pddl) que serveix de llavor del primer laberint per a completar-lo i modificar-lo convenientment per fer els altres problemes.
+- 1 fitxer del domini adequadament comentat per a laberints perillosos. 
+- 3 fitxers de problemes pels laberints perillosos adequadament comentats (4 si feu l'extra). 
 - Un fitxer `.pdf` amb:
   - Noms i mails dels participants a la pràctica
   - Breu descripció de les contribucions de cada membre del grup.
@@ -78,7 +79,8 @@ Per lliurar la pràctica, heu d'incloure els següents fitxers PDDL  en un fitxe
       - Què signifiquen els predicats utilitzats
       - Què signifiquen les funcions (numèriques) utilitzades
   - Proves d'execució amb els plans trobats (podeu posar captures de pantalla)
-
+  - Explicació de com has trobat els valors que estimarien els heurístics h^+ i h^max per als teus problemes considerant l'estat inicial. Explica com els has trobat i demostra-ho.
+  - 
 ### Criteris d'Avaluació:
 
 - Codificació correcta del domini i codificació correcta dels problemes per laberints bàsics : fins a 3 punts

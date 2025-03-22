@@ -80,7 +80,8 @@ Per lliurar la pràctica, heu d'incloure els següents fitxers PDDL  en un fitxe
       - Què signifiquen les funcions (numèriques) utilitzades
   - Proves d'execució amb els plans trobats (podeu posar captures de pantalla)
   - Explicació de com has trobat els valors que estimarien els heurístics h^+ i h^max per als teus problemes considerant l'estat inicial. Explica com els has trobat i demostra-ho.
-  - 
+
+
 ### Criteris d'Avaluació:
 
 - Codificació correcta del domini i codificació correcta dels problemes per laberints bàsics : fins a 3 punts

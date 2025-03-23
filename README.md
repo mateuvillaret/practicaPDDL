@@ -78,17 +78,17 @@ Per lliurar la pràctica, heu d'incloure els següents fitxers PDDL  en un fitxe
   - Descripció de la solució proposada:
       - Què signifiquen els predicats utilitzats
       - Què signifiquen les funcions (numèriques) utilitzades
-  - Proves d'execució amb els plans trobats (podeu posar captures de pantalla)
+  - Proves d'execució amb els plans trobats (podeu posar captures de pantalla). Trobeu execucions òptimes pel que fa al número de passos.
   - Explicació de com has trobat els valors que estimarien els heurístics h^+ i h^max per als teus problemes considerant l'estat inicial. Explica com els has trobat i demostra-ho.
 
 
 ### Criteris d'Avaluació:
 
-- Codificació correcta del domini i codificació correcta dels problemes per laberints bàsics : fins a 3 punts
-- Creació d'un problema difícil addicional: fins a 1 punt
+- Codificació correcta del domini i codificació correcta dels problemes per laberints simples : fins a 3 punts
+- Creació d'un problema de laberint simple addicional: fins a 1 punt
 - Qualitat de la codificació i la descripció de predicats i funcions: fins a 1 punt
 - Codificació correcta del domini i dodificació correcta del problemes per laberints perillosos : fins a 3 punts
-- Creació d'un problema difícil addicional: fins a 0,5 punts
+- Creació d'un problema de laberint perillós addicional on el nombre d'usos de les claus sigui important: fins a 0,5 punts
 - Qualitat de la codificació i la descripció de predicats i funcions: fins a 0,5 punts
 - Troba els valors que estimarien els heurístics h^+ i h^max per als teus problemes considerant l'estat inicial. Explica com els has trobat i demostra-ho: fins a 1 punt
 

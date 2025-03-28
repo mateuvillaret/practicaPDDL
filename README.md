@@ -6,10 +6,10 @@ Aquesta pràctica té com a finalitat avaluar la vostra comprensió de com model
 
 S'us proporciona una plantilla per al domini i per algun problema a implementar.
 
-## Descripció del Domini – El Caçador de Tresors Grimmy
+# Descripció del Domini – El Caçador de Tresors Grimmy
 En Grimmy és un especialista en laberints que tenen tresors de valors incalculables! N'ha trobat de dos tipus:
 
-# Laberints simples
+## Laberints simples
 
 - El laberint conté habitacions connectades per passadissos, que permeten anar d'una habitació a una altra.
 - Hi ha passadissos bloquejats amb panys de colors.
@@ -17,12 +17,12 @@ En Grimmy és un especialista en laberints que tenen tresors de valors incalcula
 - En Grimmy només pot portar una clau a la vegada.
 - Una de les habitacions conté el tresor (és l'objectiu).
 
-# Laberints perillosos
+## Laberints perillosos
 - Tenen les mateixes propietats que els bàsics més:
 - Alguns passadissos són perillosos i poden ensorrar-se després d'haver-se fet servir (per tant no es pot recular per ells)
 - Hi ha claus d'un sol ús, de dos usos i d'ús infinit
 
-
+# Com assolir l'objectiu
 
 El camí no és senzill. Els passadissos poden col·lapsar, les claus estan disperses i no és fàcil trobar un camí òptim fins al tresor. Tot i així, en Grimmy pot dur a terme les accions següents:
 
